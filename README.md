@@ -1,3 +1,3 @@
 # ABCbuy
-shopping site
-For more information check the wiki-page
+A shopping site
+.... For more information check the wiki-page
